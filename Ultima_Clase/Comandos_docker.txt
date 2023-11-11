@@ -1,0 +1,5 @@
+ssh CJ@192.168.25.91
+
+sudo docker ps -a
+
+sudo docker start mynodered
